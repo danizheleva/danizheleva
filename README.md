@@ -12,5 +12,7 @@
 
 <h2 align="center">My tech stack</h2> 
 
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white}" />
+- **Backend:** Python, Flask API, Django
+- **Data:** dbt, Holistics, BigQuery, PostgresSQL
+- **Deployment:** GitHub Actions
+- **Hosting:** Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, Google App Engine
