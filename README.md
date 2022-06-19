@@ -9,10 +9,3 @@
 - 📫 How to reach me: daniela.g.zheleva@gmail.com
   
 - 😄 Pronouns: She/Her
-
-<h2 align="center">My tech stack</h2> 
-
-- **Backend:** Python, Flask API, Django
-- **Data:** dbt, Holistics, BigQuery, PostgresSQL
-- **Deployment:** GitHub Actions
-- **Hosting:** Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, Google App Engine
