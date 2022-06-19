@@ -1,6 +1,6 @@
 <h1  align="center"> Hi there 👋 I'm Dani  </h1>
 
-![[Linkedin](https://www.linkedin.com/in/daniela-zheleva/)](https://img.shields.io/badge/Linkedin-#0A66C2?style=for-the-badge&logo=Linkedin&logoColor=#0A66C2)
+[[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-zheleva/)
   
 - 🔭 I’m currently working on building my online portfolio using React and Gatsby. Check out the code [here](https://github.com/danizheleva/portfolio), and the deployed version [here](https://danielazheleva.gatsbyjs.io/blog). It's very early days, so don't judge just yet!  
   
